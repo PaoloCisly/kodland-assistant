@@ -1,0 +1,6 @@
+Ciao! 🌟
+Hai fatto un buon lavoro finora, ma c'è ancora spazio per migliorare! 🚀
+Ti mancano alcuni esercizi da completare (o ti sei dimenticato di inviarli):
+{exercises}
+Il tuo punteggio attuale è *{points}*. Non male, ma possiamo fare di meglio! 💪
+Ricontrolla gli esercizi, se hai qualsiasi dubbio scrivimi pure 😉

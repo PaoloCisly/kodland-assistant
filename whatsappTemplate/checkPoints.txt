@@ -1,0 +1,4 @@
+Ehi! 🎉
+Hai completato tutti gli esercizi, ma sappiamo che possiamo fare ancora meglio! 💪
+Il tuo punteggio attuale è *{points}*.
+Ricontrolla gli esercizi, migliora il tuo punteggio, se hai qualsiasi dubbio scrivimi pure 😉
